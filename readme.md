@@ -1,3 +1,6 @@
-My C# solutions to Project Euler problems.
+project-euler-solutions
+=======================
 
-Quick and dirty interface, should use XML and probably CSharpCodeProvider in future.
+Small project for Project Euler problems.
+
+TODO: Use XML and CSharpCodeProvider.
