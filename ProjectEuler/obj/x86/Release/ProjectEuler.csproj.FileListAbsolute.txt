@@ -1,0 +1,13 @@
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\bin\Release\ProjectEuler.exe
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\bin\Release\ProjectEuler.pdb
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Release\MainWindow.baml
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Release\MainWindow.g.cs
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Release\App.g.cs
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Release\ProjectEuler_MarkupCompile.cache
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Release\ProjectEuler.g.resources
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Release\ProjectEuler.Properties.Resources.resources
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Release\ProjectEuler.exe
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Release\ProjectEuler.pdb

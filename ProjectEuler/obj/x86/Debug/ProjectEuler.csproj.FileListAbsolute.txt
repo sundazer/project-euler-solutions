@@ -1,0 +1,26 @@
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\bin\Debug\ProjectEuler.exe
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\bin\Debug\ProjectEuler.pdb
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Debug\MainWindow.baml
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Debug\App.g.cs
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Debug\ProjectEuler_MarkupCompile.cache
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Debug\ProjectEuler.g.resources
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Debug\ProjectEuler.Properties.Resources.resources
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Debug\ProjectEuler.exe
+C:\Users\Feer\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Debug\ProjectEuler.pdb
+C:\Users\Feer\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.exe
+C:\Users\Feer\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.pdb
+C:\Users\Feer\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+C:\Users\Feer\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+C:\Users\Feer\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Feer\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\MainWindow.baml
+C:\Users\Feer\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Feer\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\App.g.cs
+C:\Users\Feer\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler_MarkupCompile.cache
+C:\Users\Feer\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.g.resources
+C:\Users\Feer\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.Properties.Resources.resources
+C:\Users\Feer\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Feer\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\GenerateResource.write.1.tlog
